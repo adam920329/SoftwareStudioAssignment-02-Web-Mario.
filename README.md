@@ -8,4 +8,4 @@ Notice:
 
 CS 軟體設計與實驗Software Studio Assignment-02-Web-Mario.
 
-Link: mario-7e6a4.firebaseapp.com
+Link: https://mario-7e6a4.firebaseapp.com/
